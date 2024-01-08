@@ -1,4 +1,3 @@
-// Phone.java
 public interface Phone {
     void ligar();
     void atender();
